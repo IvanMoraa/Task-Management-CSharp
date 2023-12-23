@@ -1,0 +1,14 @@
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.AssemblyInfoInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.AssemblyInfo.cs
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.csproj.CoreCompileInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\bin\Debug\net8.0\ToDoTasks.exe
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\bin\Debug\net8.0\ToDoTasks.deps.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\bin\Debug\net8.0\ToDoTasks.runtimeconfig.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\bin\Debug\net8.0\ToDoTasks.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\bin\Debug\net8.0\ToDoTasks.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\refint\ToDoTasks.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ToDoTasks.genruntimeconfig.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\ToDoTasks\obj\Debug\net8.0\ref\ToDoTasks.dll
